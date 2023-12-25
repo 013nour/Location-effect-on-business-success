@@ -12,12 +12,3 @@ https://www.kaggle.com/datasets/norahalsharif/saudiarabia-restorations
 
 cities dataset:
 https://github.com/usefksa/Saudi_GIS_Data/blob/master/sa_cities.sql
-
-
-Google API Key: 
-AIzaSyDIPKmM5qX5wihzclc2ObruIzcUY8GZeUQ
-
-
-soup.find_all('a', 'href')
-
-leaflet-link
