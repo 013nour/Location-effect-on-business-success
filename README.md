@@ -70,3 +70,8 @@ We used:
  * DNN for sentiment analysis with accurcy of 85%.
  * K-mean for success clustering (unsupervised).
  * DNN for location effect on success with accurcy of 80%.
+
+## Dashboard : 
+
+https://github.com/013nour/Location-effect-on-business-success/assets/50384785/a549f7ef-5659-402c-8e36-2da2c173e8d0
+
